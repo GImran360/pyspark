@@ -41,3 +41,14 @@
 <img width="1856" height="913" alt="image" src="https://github.com/user-attachments/assets/2344f193-526b-4a3c-9eef-6aa534f35970" />
 <img width="1904" height="1006" alt="image" src="https://github.com/user-attachments/assets/dbeb4961-5755-4efb-88e6-8e17cb76f00b" />
 <img width="1911" height="1014" alt="image" src="https://github.com/user-attachments/assets/fcd5c19c-b1d6-4dc7-8648-f1980377fc55" />
+<img width="840" height="930" alt="image" src="https://github.com/user-attachments/assets/1acf5283-a46f-4824-bf47-2907986d4565" />
+<img width="762" height="593" alt="image" src="https://github.com/user-attachments/assets/c203199d-ed49-4626-9d0a-d9325d9c58cc" />
+<img width="769" height="596" alt="image" src="https://github.com/user-attachments/assets/ff9206fe-fe7d-4464-b359-f62eadd45464" />
+<img width="786" height="606" alt="image" src="https://github.com/user-attachments/assets/0f342f48-5231-44c3-b3ea-c1f4fd9ee0ca" />
+<img width="775" height="600" alt="image" src="https://github.com/user-attachments/assets/c4e22195-6700-4ada-94ec-dbfdc7b131b3" />
+<img width="1894" height="990" alt="image" src="https://github.com/user-attachments/assets/76ee782f-1523-495d-9225-d5f37ba3d6f0" />
+<img width="1882" height="1004" alt="image" src="https://github.com/user-attachments/assets/e6c5b220-c8e4-4657-818d-e26c38b70481" />
+Spark Performance Optimization Practical Implementation 
+[Practical] Adaptive Query Execution (AQE) in Spark | Performance Optimization
+Databricks | PySpark | Slowly Changing Dimension (SCD Type2) Practical Implementation
+<img width="1058" height="340" alt="image" src="https://github.com/user-attachments/assets/8886b178-5f92-4142-b959-bbb0f5a257c7" />
